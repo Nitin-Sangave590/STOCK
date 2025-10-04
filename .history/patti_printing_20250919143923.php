@@ -1,0 +1,1 @@
+Uncaught SyntaxError: Unexpected token '}' (at patti_printing.php:545:1)

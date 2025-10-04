@@ -1,0 +1,2 @@
+
+Fatal error: Uncaught Error: Call to a member function bind_param() on bool in E:\xampp\htdocs\STOCK\purchase_entry.php:146 Stack trace: #0 {main} thrown in E:\xampp\htdocs\STOCK\purchase_entry.php on line 146
